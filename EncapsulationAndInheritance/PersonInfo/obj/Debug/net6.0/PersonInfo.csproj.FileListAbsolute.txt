@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\EncapsulationAndInheritance\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
