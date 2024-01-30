@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\bin\Debug\net6.0\01MatchFullName.exe
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\bin\Debug\net6.0\01MatchFullName.deps.json
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\bin\Debug\net6.0\01MatchFullName.runtimeconfig.json
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\bin\Debug\net6.0\01MatchFullName.dll
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\bin\Debug\net6.0\01MatchFullName.pdb
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.dll
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\refint\01MatchFullName.dll
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.pdb
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\01MatchFullName.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\RegExs\01MatchFullName\obj\Debug\net6.0\ref\01MatchFullName.dll

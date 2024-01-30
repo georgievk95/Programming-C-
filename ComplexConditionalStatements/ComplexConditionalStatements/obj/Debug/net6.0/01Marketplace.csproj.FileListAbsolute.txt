@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\bin\Debug\net6.0\01Marketplace.exe
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\bin\Debug\net6.0\01Marketplace.deps.json
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\bin\Debug\net6.0\01Marketplace.runtimeconfig.json
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\bin\Debug\net6.0\01Marketplace.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\bin\Debug\net6.0\01Marketplace.pdb
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\refint\01Marketplace.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.pdb
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\01Marketplace.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\ComplexConditionalStatements\obj\Debug\net6.0\ref\01Marketplace.dll

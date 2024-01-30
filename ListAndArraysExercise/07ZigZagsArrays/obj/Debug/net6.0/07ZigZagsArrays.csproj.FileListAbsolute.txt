@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\bin\Debug\net6.0\07ZigZagsArrays.exe
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\bin\Debug\net6.0\07ZigZagsArrays.deps.json
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\bin\Debug\net6.0\07ZigZagsArrays.runtimeconfig.json
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\bin\Debug\net6.0\07ZigZagsArrays.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\bin\Debug\net6.0\07ZigZagsArrays.pdb
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\refint\07ZigZagsArrays.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.pdb
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\07ZigZagsArrays.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\07ZigZagsArrays\obj\Debug\net6.0\ref\07ZigZagsArrays.dll

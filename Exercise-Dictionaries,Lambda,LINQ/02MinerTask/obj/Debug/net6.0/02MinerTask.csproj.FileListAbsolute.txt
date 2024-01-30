@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\bin\Debug\net6.0\02MinerTask.exe
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\bin\Debug\net6.0\02MinerTask.deps.json
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\bin\Debug\net6.0\02MinerTask.runtimeconfig.json
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\bin\Debug\net6.0\02MinerTask.dll
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\bin\Debug\net6.0\02MinerTask.pdb
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.dll
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\refint\02MinerTask.dll
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.pdb
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\02MinerTask.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\Exercise-Dictionaries,Lambda,LINQ\02MinerTask\obj\Debug\net6.0\ref\02MinerTask.dll

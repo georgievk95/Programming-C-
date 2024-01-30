@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\bin\Debug\net6.0\01Songs.exe
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\bin\Debug\net6.0\01Songs.deps.json
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\bin\Debug\net6.0\01Songs.runtimeconfig.json
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\bin\Debug\net6.0\01Songs.dll
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\bin\Debug\net6.0\01Songs.pdb
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.dll
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\refint\01Songs.dll
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.pdb
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\01Songs.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\Objects&Classes\01Songs\obj\Debug\net6.0\ref\01Songs.dll

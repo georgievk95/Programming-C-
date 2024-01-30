@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\bin\Debug\net6.0\01GaussTrick.exe
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\bin\Debug\net6.0\01GaussTrick.deps.json
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\bin\Debug\net6.0\01GaussTrick.runtimeconfig.json
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\bin\Debug\net6.0\01GaussTrick.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\bin\Debug\net6.0\01GaussTrick.pdb
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\refint\01GaussTrick.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.pdb
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\01GaussTrick.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\01GaussTrick\obj\Debug\net6.0\ref\01GaussTrick.dll

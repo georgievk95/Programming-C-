@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.exe
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.deps.json
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.runtimeconfig.json
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\refint\NumberAsWords.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\NumberAsWords\obj\Debug\net6.0\ref\NumberAsWords.dll

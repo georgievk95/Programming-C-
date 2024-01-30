@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\bin\Debug\net6.0\02LargestNumber.exe
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\bin\Debug\net6.0\02LargestNumber.deps.json
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\bin\Debug\net6.0\02LargestNumber.runtimeconfig.json
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\bin\Debug\net6.0\02LargestNumber.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\bin\Debug\net6.0\02LargestNumber.pdb
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\refint\02LargestNumber.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.pdb
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\02LargestNumber.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\LargestNumber\obj\Debug\net6.0\ref\02LargestNumber.dll

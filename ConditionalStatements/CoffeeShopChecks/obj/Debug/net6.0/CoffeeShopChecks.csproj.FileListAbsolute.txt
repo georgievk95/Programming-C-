@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.exe
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.deps.json
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.runtimeconfig.json
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\bin\Debug\net6.0\CoffeeShopChecks.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\refint\CoffeeShopChecks.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\CoffeeShopChecks.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShopChecks\obj\Debug\net6.0\ref\CoffeeShopChecks.dll

@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\PolymorphismAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll

@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.exe
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.deps.json
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.runtimeconfig.json
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\refint\CoffeeShop.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\CoffeeShop\obj\Debug\net6.0\ref\CoffeeShop.dll

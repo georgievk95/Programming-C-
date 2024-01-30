@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ImplementingOOP\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+C:\Users\bai koc\source\repos\ImplementingOOP\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+C:\Users\bai koc\source\repos\ImplementingOOP\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+C:\Users\bai koc\source\repos\ImplementingOOP\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+C:\Users\bai koc\source\repos\ImplementingOOP\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ImplementingOOP\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll

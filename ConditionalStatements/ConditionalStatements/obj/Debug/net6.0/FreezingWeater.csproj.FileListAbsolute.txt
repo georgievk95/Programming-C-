@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\FreezingWeater.exe
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\FreezingWeater.deps.json
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\FreezingWeater.runtimeconfig.json
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\FreezingWeater.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net6.0\FreezingWeater.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\refint\FreezingWeater.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\FreezingWeater.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net6.0\ref\FreezingWeater.dll

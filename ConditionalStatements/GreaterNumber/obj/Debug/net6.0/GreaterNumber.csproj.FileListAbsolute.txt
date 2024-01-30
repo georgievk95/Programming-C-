@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ConditionalStatements\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

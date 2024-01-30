@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\bin\Debug\net6.0\04WordFilter.exe
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\bin\Debug\net6.0\04WordFilter.deps.json
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\bin\Debug\net6.0\04WordFilter.runtimeconfig.json
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\bin\Debug\net6.0\04WordFilter.dll
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\bin\Debug\net6.0\04WordFilter.pdb
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.dll
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\refint\04WordFilter.dll
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.pdb
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\04WordFilter.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\04WordFilter\obj\Debug\net6.0\ref\04WordFilter.dll

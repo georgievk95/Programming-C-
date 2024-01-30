@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\bin\Debug\net6.0\05FruitOrVegetables.exe
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\bin\Debug\net6.0\05FruitOrVegetables.deps.json
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\bin\Debug\net6.0\05FruitOrVegetables.runtimeconfig.json
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\bin\Debug\net6.0\05FruitOrVegetables.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\bin\Debug\net6.0\05FruitOrVegetables.pdb
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\refint\05FruitOrVegetables.dll
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.pdb
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\05FruitOrVegetables.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\05FruitOrVegetables\obj\Debug\net6.0\ref\05FruitOrVegetables.dll

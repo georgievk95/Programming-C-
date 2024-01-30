@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\bin\Debug\net6.0\02CondenseArrayToNumber.exe
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\bin\Debug\net6.0\02CondenseArrayToNumber.deps.json
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\bin\Debug\net6.0\02CondenseArrayToNumber.runtimeconfig.json
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\bin\Debug\net6.0\02CondenseArrayToNumber.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\bin\Debug\net6.0\02CondenseArrayToNumber.pdb
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\refint\02CondenseArrayToNumber.dll
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.pdb
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\02CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\ListAndArraysExercise\02CondenseArrayToNumber\obj\Debug\net6.0\ref\02CondenseArrayToNumber.dll

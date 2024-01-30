@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\net6.0\01CountRealNumbers.exe
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\net6.0\01CountRealNumbers.deps.json
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\net6.0\01CountRealNumbers.runtimeconfig.json
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\net6.0\01CountRealNumbers.dll
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\bin\Debug\net6.0\01CountRealNumbers.pdb
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.dll
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\refint\01CountRealNumbers.dll
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.pdb
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\01CountRealNumbers.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\DictionariesLambdaLINQ\01CountRealNumbers\obj\Debug\net6.0\ref\01CountRealNumbers.dll

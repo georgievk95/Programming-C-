@@ -1,0 +1,4 @@
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\SortedNumbers\obj\Debug\net6.0\08SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\SortedNumbers\obj\Debug\net6.0\08SortedNumbers.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\SortedNumbers\obj\Debug\net6.0\08SortedNumbers.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\ComplexConditionalStatements\SortedNumbers\obj\Debug\net6.0\08SortedNumbers.csproj.CoreCompileInputs.cache
